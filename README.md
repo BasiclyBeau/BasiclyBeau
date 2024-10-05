@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BasiclyBeau1
+- 👋 Hi, I’m @BasiclyBeau
 - 👀 I’m interested in doing python projects
 - 🌱 I’m currently learning machine learning in python
-- 📫 How to reach me BasiclyBeau#7903 on discord
+- 📫 How to reach me BasiclyBeau on discord
