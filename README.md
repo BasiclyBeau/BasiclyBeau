@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @BasiclyBeau
-- 👀 I’m interested in doing python projects
-- 🌱 I’m currently learning machine learning in python
-- 📫 How to reach me BasiclyBeau on discord
+- 👀 I’m interested in Network Engineering and App development
+- 🌱 I’m currently learning C#, Swift, Rust and HTML/CSS
