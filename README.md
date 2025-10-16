@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BasiclyBeau
 - 👀 I’m interested in Network Engineering and App development
-- 🌱 I’m currently learning C#, Swift, Rust and HTML/CSS
+- 🌱 I’m currently learning C#, Swift, and HTML/CSS
